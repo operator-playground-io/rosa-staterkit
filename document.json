@@ -1,0 +1,52 @@
+{
+  "name": "Kubernetes and OpenShift StarterKit",
+  "description": "Convert your Helm Charts, Docker images and Kubernetes setups into Operators with a few clicks. You can test the Operator created before downloading it.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": true,
+  "stack_id": "Kubernetes_and_OpenShift_StarterKit-operator_1634816664988",
+  "type": "Operators",
+  "Categories": [
+    "Backend",
+    "Express",
+    "Frontend"
+  ],
+  "source_repo": "https://github.com/operator-playground-io/rosa-staterkit.git",
+  "cover": "cover.md",
+  "use_explorer_dataset": false,
+  "use_catalog_dataset": "",
+  "is_s3_type": false,
+  "meta": {
+    "Install Time": [
+      "15 minutes"
+    ],
+    "Type": [
+      "Operators"
+    ],
+    "Categories": [
+      "Backend",
+      "Express",
+      "Frontend"
+    ],
+    "Catalog Id": [
+      "Kubernetes_and_OpenShift_StarterKit-operator_1634816664988"
+    ],
+    "Contact": []
+  },
+  "commands": [
+    {
+      "description": "Get the URL of the StarterKit UI",
+      "exec": "echo http://$(hostname -I | cut -d' ' -f2):3000"
+    }
+  ],
+  "deployment_information": {
+    "Operator_Project": "NA",
+    "Deployment_Namespace": "my-Kubernetes_and_OpenShift_StarterKit-operator_1634816664988-operator-app"
+  },
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}

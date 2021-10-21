@@ -1,0 +1,26 @@
+{
+  "title": "Kubernetes and OpenShift StarterKit",
+  "description": "Convert your Helm Charts, Docker images and Kubernetes setups into Operators with a few clicks. You can test the Operator created before downloading it.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Operators"
+  ],
+  "document": "",
+  "stack_id": "Kubernetes_and_OpenShift_StarterKit-operator_1634816664988",
+  "de_catalog_id": "Kubernetes_and_OpenShift_StarterKit-operator_1634816664988",
+  "type": "Operators",
+  "categories": [
+    "Backend",
+    "Express",
+    "Frontend"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "15 minutes"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Create Operator",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "Create Operator from your K8s setup or use the local K8s from this Lab",
+      "duration": "10",
+      "title": "Create Operator from K8s setup",
+      "tutorial_name": "CreateFromK8s.md"
+    }
+  ],
+  "usefulLinks": [
+    {
+      "description": "",
+      "url": "",
+      "title": ""
+    }
+  ],
+  "demos": [
+    {
+      "description": "",
+      "url": "",
+      "title": ""
+    }
+  ]
+}
