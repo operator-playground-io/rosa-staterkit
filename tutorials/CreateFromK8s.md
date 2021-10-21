@@ -1,25 +1,25 @@
-###Accordian 1 - Text
+### 1 - Select the Method of creating Operator
 
 Accordian text goes here
 
-### Accordian 2 - Dynamically replacing values
+### 2 - Give the operator details
 
 User can define values as below which needs to be replaced dynamically during run time.
 
 URL :  http://##DNS.IP##:30455
 
-### Accordian 3 - Images
+### 3 - Login to the local K8s and fetch the resources
 xxx
 ![codestructure](_images/mvc-db-structure.png)
 
-### Accordian 4 - UL - LI
+### 4 - Create a Kind using the K8s resources
 
 Simple text to demonstrate ul li :
 - list text 1.
 - list text 2.
 - list text 3.
 
-### Accordian 5 - Commands
+### 5 - Create the Operator
 
 Open terminal tab from dashboard to execute any commands. 
 
@@ -34,3 +34,6 @@ One can copy them by clicking :
 ```copy
 ls -l
 ```
+
+
+
